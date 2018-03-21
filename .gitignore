@@ -1,3 +1,11 @@
 cmake-build-debug/
 cmake-build-release/
 .idea/
+CMakeFiles/
+cmake_install.cmake
+*.cbp
+Makefile
+*.so
+*.so.*
+*.txt
+*.pc
